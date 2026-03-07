@@ -7,4 +7,4 @@
 I am a professional Android Developer and a Software Architect.
 
 - 🔭 I’m starting a business in <b>Indonesia.</b>
-- 🌱 I'm currently developing **Netra**, a dual-stack (IPv4/IPv6) network auditing tool for rooted Android devices and **Game Modding**: Mastering the art of reverse engineering and memory manipulation.
+- 🌱 I'm currently developing **Netra**, a dual-stack (IPv4/IPv6) network auditing tool for rooted Android devices.
